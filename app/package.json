@@ -40,5 +40,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "app: An Ionic project"
+  "description": "Broken Tredmill: A barebones app to track stats when running on the Tredmill."
 }
